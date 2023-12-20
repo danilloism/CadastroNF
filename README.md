@@ -22,3 +22,4 @@ Para rodar, basta iniciar o docker compose do projeto para iniciar o banco de da
 
 ## Pontos de melhoria
 Criar testes e mais rotas, pois por enquanto há apenas rotas GET e POST.
+Foi utlizado valor em centavos como valor monetário (pois lida com dinheiro de forma granular), mas eu queria ter implementado uma formatação desse valor. 
